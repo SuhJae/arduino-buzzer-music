@@ -1,3 +1,6 @@
+### 📜 Archived Repository
+🌱 This repository, `Arduino-buzzer-music`, was developed as part of a school engineering class project. While this project holds a special place as a significant learning experience, it has been archived post-completion. I've since shifted my focus to other areas of development, but I hope this repository serves as an inspiration or reference for future enthusiasts.
+
 # Arduino-buzzer-music
 ### A set of python Script and Arduino code to create music out of a Midi file.
 ![](https://img.shields.io/pypi/pyversions/mido?style=flat-square)
